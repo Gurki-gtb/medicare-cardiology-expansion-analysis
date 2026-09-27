@@ -6,7 +6,9 @@ Kestrel's VP of corporate development is looking to build a data backed case for
 
 The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Practitioners dataset (containing > 9.7M rows of data), with the insights being based around the following:
 
-## NorthStar Metrics:
+### NorthStar Metrics:
 
-- ### Volume/Service Activity: Total Services, Total Beneficiaries, Estimated Medicare Paid
-- ### Service Mix: Medicare paid, Avg Medicare Paid, Total Services
+- #### Volume/Service Activity:
+  - Total Services, Total Beneficiaries, Estimated Medicare Paid
+- #### Service Mix:
+  - Medicare paid, Avg Medicare Paid, Total Services
