@@ -17,6 +17,6 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
 ### NorthStar Metrics:
 
 - #### Volume/Service Activity:
-- **Total Services, Total Beneficiaries, Estimated Medicare Paid**
+  - **Total Services, Total Beneficiaries, Estimated Medicare Paid**
 - #### Service Mix:
-- **Medicare paid, Avg Medicare Paid, Total Services**
+  - **Medicare paid, Avg Medicare Paid, Total Services**
