@@ -10,13 +10,13 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
 
 ### Business Questions:
 
-- Who are the highest-volume cardiology providers in California right now, and how concentrated is that market — are we talking about a handful of big players or a lot of small ones?
+- **Who are the highest-volume cardiology providers in California right now, and how concentrated is that market — are we talking about a handful of big players or a lot of small ones?**
   
-- What are cardiologists actually billing for most? I want to understand the service mix so we know what we'd need to staff and equip if we went the "build" route.
+- **What are cardiologists actually billing for most? I want to understand the service mix so we know what we'd need to staff and equip if we went the "build" route.**
  
 ### NorthStar Metrics:
 
 - #### Volume/Service Activity:
-  - **Total Services, Total Beneficiaries, Estimated Medicare Paid**
+- **Total Services, Total Beneficiaries, Estimated Medicare Paid**
 - #### Service Mix:
-  - **Medicare paid, Avg Medicare Paid, Total Services**
+- **Medicare paid, Avg Medicare Paid, Total Services**
