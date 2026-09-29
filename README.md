@@ -41,6 +41,10 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
 
 ### Overall Verdict 
 - Medicare service activity is **moderate rather than extreme**. The Cardiologist market **isn't dominated by a few handful of players**, but volume is still concentrated in a small subset of high activity providers.
-- Which remains **relevant for an acquisition strategy** as there is no single practice holding an outsized market share, rather a small group of the top providers do. 
+- Which remains **relevant for an acquisition strategy** as there is no single practice holding an outsized market share, rather a small group of the top providers do.
+
+---
+# HCPCS Code Performance Evaluation
+
 
 
