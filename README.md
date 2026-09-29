@@ -13,7 +13,9 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
 - **Who are the highest-volume cardiology providers in California right now, and how concentrated is that market — are we talking about a handful of big players or a lot of small ones?**
   
 - **What are cardiologists actually billing for most? I want to understand the service mix so we know what we'd need to staff and equip if we went the "build" route. Lead with Medicare-paid, not just count. Top 20 should be plenty to tell a clean story.**
- 
+
+- **Based on what you find, does it look like we should be looking at acquiring an existing practice, or is there room to build our own and compete?**
+  
 ### NorthStar Metrics:
 
 - #### Volume/Service Activity:
@@ -39,7 +41,7 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
 - The top three providers provided more than **100K services** with the top provider contributing **306,323 services**.
 - However, these numbers are being heavily inflated due to how certain services are billed. Which is not truly reflective of clinical encounters. To confirm ranking stability, I cross checked against beneficiary counts and the rankings held consistently.
 
-### Overall Verdict 
+### Verdict 
 - Medicare service activity is **moderate rather than extreme**. The Cardiologist market **isn't dominated by a few handful of players**, but volume is still concentrated in a small subset of high activity providers.
 - Which remains **relevant for an acquisition strategy** as there is no single practice holding an outsized market share, rather a small group of the top providers do.
 
@@ -50,10 +52,10 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
   <img src="visualizations/HCPCS_cd.png" width="600">
 </p>
 
-## Context
+### Context
 - A standard evaluation service is classified based on its description. Mentions of "low/moderate/high level of decision making", "__ minutes or more", "established patient office", and no mentions of specialized equipment or machinery. 
 
-## Overview 
+### Overview 
 - The top 20 HCPCS codes amount to a total of **$393.5 million dollars** in estimated Medicare paid.
 - Of the top 20 codes, **7** described **standard evaluation services** and make up **$187.9M** of the amount **(47.74%)**.
 - The 13 other codes make up **$205.6M** of the amount **(52.5%)**.
@@ -62,6 +64,18 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
 - The split of Medicare paid based on the classification is almost even. As mentioned, a large chunk comes from standard eval services, with codes like **99214 (rank 1)** accounting for **90.2M (22.9%)** on it's own.
 - However, the 13 HCPCS codes that don't describe standard eval services **still make up a majority** and can not be overlooked.
 
-## Conclusion 
+### Verdict 
 - Due to the split being so close it may be that we require new equipment or capability. I'd recommend a specialist/clinical ops review of this HCPCS list prior to finalizing building costs. 
+
+---
+# Insights and Recommendations 
+---
+## Insights
+- Based on the Medicare Service activity data, we have found that the service activity across providers is a moderate cut rather than an extreme cut. There isn't a single practice that controls a large portion of the industry.
+- However, there is small group of high activity providers making up a large amount of the service activity. 
+- In terms of what Cardiologists are billing for, amongst the top 20 HCPCS codes we found the split between standard evaluation services and non-standard evaluation services to be almost even.
+- So, having a specialist review the list of the non-standard evaluation services and determining what would be needed to staff/equip for these codes would be a good next step.
+## Recommendation
+**Based on these two factors, I believe going in either direction of acquiring an existing practice or building our own both make sense. However, the real deciding factor comes down to the cost of our own build out compared to acquiring an existing practice. The data doesn't point in one obvious direction so the cost difference in both options should be heavily considered before moving forward with one or the other.**
+
 
