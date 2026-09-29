@@ -12,7 +12,7 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
 
 - **Who are the highest-volume cardiology providers in California right now, and how concentrated is that market — are we talking about a handful of big players or a lot of small ones?**
   
-- **What are cardiologists actually billing for most? I want to understand the service mix so we know what we'd need to staff and equip if we went the "build" route.**
+- **What are cardiologists actually billing for most? I want to understand the service mix so we know what we'd need to staff and equip if we went the "build" route. Lead with Medicare-paid, not just count. Top 20 should be plenty to tell a clean story.**
  
 ### NorthStar Metrics:
 
@@ -50,6 +50,18 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
   <img src="visualizations/HCPCS_cd.png" width="600">
 </p>
 
+## Context
+- A standard evaluation service is classified based on its description. Mentions of "low/moderate/high level of decision making", "__ minutes or more", "established patient office", and no mentions of specialized equipment or machinery. 
 
+## Overview 
+- The top 20 HCPCS codes amount to a total of **$393.5 million dollars** in estimated Medicare paid.
+- Of the top 20 codes, **7** described **standard evaluation services** and make up **$187.9M** of the amount **(47.74%)**.
+- The 13 other codes make up **$205.6M** of the amount **(52.5%)**.
+- These codes aren't classified as standard evaluation, and often mention different uses of studies, machines, or equipment.
 
+- The split of Medicare paid based on the classification is almost even. As mentioned, a large chunk comes from standard eval services, with codes like **99214 (rank 1)** accounting for **90.2M (22.9%)** on it's own.
+- However, the 13 HCPCS codes that don't describe standard eval services **still make up a majority** and can not be overlooked.
+
+## Conclusion 
+- Due to the split being so close it may be that we require new equipment or capability. I'd recommend a specialist/clinical ops review of this HCPCS list prior to finalizing building costs. 
 
