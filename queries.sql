@@ -255,5 +255,3 @@ LIMIT 20
 -- Due to this being a smaller query result, I decided to analyze further using Excel
 
 
-
-
