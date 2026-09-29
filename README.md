@@ -21,8 +21,9 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
 - #### Service Mix:
   - **Medicare paid, Avg Medicare Paid, Total Services**
 
+-------
 # Medicare Service Activity
 
 <p>
-  <img src="visualizations/medicare_service_activity.png" width="700">
+  <img src="visualizations/medicare_service_activity.png" width="600">
 </p>
