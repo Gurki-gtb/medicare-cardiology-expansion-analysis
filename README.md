@@ -28,13 +28,14 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
   <img src="visualizations/medicare_service_activity_2.png" width="600">
 </p>
 
-## Notes on the Data
+### Notes on the Data
 - There are 0 organizational cardiologist NPI's, meaning this data won't be skewed from uneven data representation.
 - Service activity reflects billed service volume not confirmed patient counts.
 
-## Performance Overview
-- As of 2024, there are 1822 unique Cardiologists accepting Medicare.
-- The top 25 (1.4%) providers account for 19% of Medicare Service activity.
-- Whereas, the top 231 (13%) providers account for 54%.
-- The top three providers provided more than 100K services with the top provider contributing 306,323 services.
+### Performance Overview
+- As of 2024, there are **1822 unique Cardiologists (CA)** accepting Medicare.
+- The top **25 (1.4%) providers** account for **19%** of Medicare Service activity.
+- Whereas, the top **231 (13%) providers** account for **54%**.
+- The top three providers provided more than **100K services** with the top provider contributing **306,323 services**.
 - However, these numbers are being heavily inflated due to how certain services are billed. Which is not truly reflective of clinical encounters. To confirm ranking stability, I cross checked against beneficiary counts and the rankings held consistently.
+
