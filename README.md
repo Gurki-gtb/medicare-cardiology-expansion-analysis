@@ -47,7 +47,7 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
 # HCPCS Code Performance Evaluation
 
 <p>
-  <img src="visualizations/medicare_paid.png" width="600">
+  <img src="visualizations/HCPCS_cd.png" width="600">
 </p>
 
 
