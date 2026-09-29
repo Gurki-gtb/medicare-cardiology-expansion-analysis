@@ -25,7 +25,7 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
 # Medicare Service Activity
 
 <p>
-  <img src="visualizations/medicare_service_activity.png" width="600">
+  <img src="visualizations/medicare_service_activity_2.png" width="600">
 </p>
 
 ## Notes on the Data
