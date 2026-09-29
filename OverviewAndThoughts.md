@@ -31,5 +31,5 @@ With that, I'd like to say I hope you enjoy this project! Feel free to let me kn
 
 - Gurkirat Singh (Data Analyst)
 
-<img width="204" height="200" alt="github" src="https://github.com/user-attachments/assets/ed0568cc-b0f3-4b4e-b5c8-b34d1a77c780" />
+<img width="165" height="165" alt="the-office-michael-scott" src="https://github.com/user-attachments/assets/b2887af4-87f5-4868-8bb6-156404eff342" />
 
