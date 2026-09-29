@@ -68,8 +68,8 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
 - Due to the split being so close it may be that we require new equipment or capability. I'd recommend a specialist/clinical ops review of this HCPCS list prior to finalizing building costs. 
 
 ---
-# Insights and Recommendations 
----
+# Conclusion:
+
 ## Insights
 - Based on the Medicare Service activity data, we have found that the service activity across providers is a moderate cut rather than an extreme cut. There isn't a single practice that controls a large portion of the industry.
 - However, there is small group of high activity providers making up a large amount of the service activity. 
