@@ -30,7 +30,7 @@ The scope of this analysis was set to the 2024 CMS Medicare Physician & Other Pr
 
 ### Notes on the Data
 - There are 0 organizational cardiologist NPI's, meaning this data won't be skewed from uneven data representation.
-- Service activity reflects billed service volume not confirmed patient counts.
+- Service activity reflects billed service volume not confirmed patient counts. 
 
 ### Performance Overview
 - As of 2024, there are **1822 unique Cardiologists (CA)** accepting Medicare.
